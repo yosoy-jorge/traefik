@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="docs/content/assets/img/traefik.logo.png" alt="Traefik" title="Traefik" />
 </p>
